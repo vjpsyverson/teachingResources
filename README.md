@@ -1,2 +1,2 @@
 # teachingResources
-educational resources made by (mostly) me
+Educational resources made by (mostly) me.
